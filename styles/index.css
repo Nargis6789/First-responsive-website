@@ -526,6 +526,10 @@ gap: 16px;
     .ban{
         width: auto;
     }
+    .sri{
+        width: 100%;
+        background-repeat: no-repeat;
+    }
     .why{
         margin: 10px;
     }
@@ -571,6 +575,12 @@ gap: 16px;
         flex-direction: column;
     }
     .letter{
+        width: auto;
+    }
+    .letter-text{
+        margin-left: 10px;
+    }
+    .letter-img{
         width: auto;
     }
     form input{
