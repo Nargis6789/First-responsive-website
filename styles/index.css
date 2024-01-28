@@ -563,4 +563,27 @@ gap: 16px;
     .discount-text-3{
         width: auto;
     }
+    .see{
+        margin: 10px;
+    }
+    .news{
+        margin: 10px;
+        flex-direction: column;
+    }
+    .letter{
+        width: auto;
+    }
+    form input{
+        width: auto;
+    }
+    .end{
+        margin: 10px;
+        width: auto;
+    }
+    .end-1 p{
+        margin: 10px;
+    }
+    hr{
+        width:auto ;
+    }
 }
